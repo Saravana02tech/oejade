@@ -4,7 +4,7 @@ class Name
 {
   public static void main(String args[])
   {
-     int num;
+     String str;
  
      Scanner in = new Scanner(System.in);
  
