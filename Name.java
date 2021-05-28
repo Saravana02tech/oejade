@@ -7,7 +7,7 @@ class Name {
         // greater than 0
         if (args.length > 0) {
             System.out.println(
-                "The command line arguments are:");
+                "Enter a Text:");
 
  
 
@@ -17,7 +17,7 @@ class Name {
                 System.out.println(val);
         }
         else
-            System.out.println("No command line "
+            System.out.println("Enter a text "
                             + "arguments found.");
     }
 }
