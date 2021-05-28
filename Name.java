@@ -1,4 +1,4 @@
-public class Sample {
+public class Name {
     public static void main(String[] args)
     {
         // Using Console to input data 
