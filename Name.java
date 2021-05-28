@@ -12,5 +12,6 @@ class Name
      System.out.println("Enter a string: ");
      str = in.nextLine();
      System.out.println("Input String is: "+str);
+	  in.close();
 	 }
 	 }
