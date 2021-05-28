@@ -1,17 +1,9 @@
-import java.util.Scanner;
+public class Sample {
+    public static void main(String[] args)
+    {
+        // Using Console to input data 
+        String name = System.console().readLine();
+        System.out.println("You entered string " + name);
+    }
+}
 
-class Name
-{
-  public static void main(String args[])
-  {
-     String str;
- 
-     Scanner in = new Scanner(System.in);
- 
-     //Get input String
-     System.out.println("Enter a string: ");
-     str = in.nextLine();
-     System.out.println("Input String is: "+str);
-	  in.close();
-	 }
-	 }
