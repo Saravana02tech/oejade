@@ -1,6 +1,6 @@
 
 // Program to check for command line arguments
-class Name {
+class Name{
     public static void main(String[] args)
     {
   
