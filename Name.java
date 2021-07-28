@@ -5,8 +5,8 @@ class Name {
     {
   
             System.out.println("Enter a text ");
-        System.out.println("Enter a text ");
-        
+           System.out.println("Enter a text ");
+          System.out.println("Enter a text ");
                             
     }
 }
